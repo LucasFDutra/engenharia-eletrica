@@ -33,3 +33,9 @@ São três projetos para a disciplina de estrutura de dados, todos feitos na lin
     - merge sort
     - quick sort
     - selection sort
+
+## Algoritmo Multi Agente Aplicado a Entrega e Coleta de Objetos
+
+Esse projeto é o meu tcc. Em que fiz um algoritmo utilizando aprendizagem por reforço que visa encontrar uma rota para cada agente traçar em um sistema com multiplos agentes que irão coletar objetos e colocá-los em lugares específicos pré-estabelcidos.
+
+Se parece bastante com o problema do caixeiro-viajante, porém com multiplos caixeiros-viajantes
