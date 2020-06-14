@@ -20,5 +20,16 @@ Esse projeto foi criado para analisar o consumo do hospital escola da universida
 
 > OBS.: Os arquivos csvs foram apagados pois os dados pertêncem ao hospital.
 
+## Estrutura de dados
 
-
+São três projetos para a disciplina de estrutura de dados, todos feitos na linguagem C
+- grafo
+- lista ligada
+    - simples
+    - duplamente encadeada circular
+- algoritmos de sorting
+    - bubble sort
+    - insertion sort
+    - merge sort
+    - quick sort
+    - selection sort
